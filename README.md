@@ -475,6 +475,7 @@ describe('Cart Store', () => {
 
 ### Vercel 
 
+https://g-store-z49y.vercel.app/ 
 
 ## 🛠️ Tecnologías
 
